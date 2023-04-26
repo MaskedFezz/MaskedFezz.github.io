@@ -114,6 +114,17 @@ footer .services .service p{
 footer #contact{
     color: rgb(181, 181, 181);
 }
+footer localisation {
+    padding: 10px 20px;
+    background-color: rgb(41, 70, 60);
+    color: #ffffff;
+    border: #000;
+    margin-bottom: 15px;
+    outline:auto;
+    font-size: 10px;
+    font-family: 'Playfair Display', serif;
+    cursor: pointer;
+}
 
 @media screen and (max-width:680px){
     nav .onglets {
